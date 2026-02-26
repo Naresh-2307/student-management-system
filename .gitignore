@@ -1,0 +1,11 @@
+#Node 
+node_modules/
+npm-debug.log
+
+#Python
+__pycache__/
+*.__pyc
+.env
+ 
+ #OS
+ .DS_Store
