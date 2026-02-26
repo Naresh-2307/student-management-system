@@ -71,5 +71,5 @@ def update_student(id):
     )
 
     return jsonify({"message": "Student updated successfully"})
-print("this is login page")
+
 app.run()
